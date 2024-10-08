@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="pr1007_module_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="pr1007_module_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="296.011 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,140.798 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="92"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="23" />
+   <wvobject fp_name="/pr1007_module_tb/uut1/A" type="array">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/B" type="array">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/C" type="array">
+      <obj_property name="ElementShortName">C[3:0]</obj_property>
+      <obj_property name="ObjectShortName">C[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/d" type="array">
+      <obj_property name="ElementShortName">d[3:0]</obj_property>
+      <obj_property name="ObjectShortName">d[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/e" type="array">
+      <obj_property name="ElementShortName">e[3:0]</obj_property>
+      <obj_property name="ObjectShortName">e[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/F" type="logic">
+      <obj_property name="ElementShortName">F</obj_property>
+      <obj_property name="ObjectShortName">F</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_AND" type="array">
+      <obj_property name="ElementShortName">OUT_AND[3:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_AND[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_OR" type="array">
+      <obj_property name="ElementShortName">OUT_OR[3:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_OR[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_XOR" type="array">
+      <obj_property name="ElementShortName">OUT_XOR[3:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_XOR[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_NOT" type="array">
+      <obj_property name="ElementShortName">OUT_NOT[3:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_NOT[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/AND" type="logic">
+      <obj_property name="ElementShortName">AND</obj_property>
+      <obj_property name="ObjectShortName">AND</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OR" type="logic">
+      <obj_property name="ElementShortName">OR</obj_property>
+      <obj_property name="ObjectShortName">OR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/NOT" type="logic">
+      <obj_property name="ElementShortName">NOT</obj_property>
+      <obj_property name="ObjectShortName">NOT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_RELATIONAL" type="logic">
+      <obj_property name="ElementShortName">OUT_RELATIONAL</obj_property>
+      <obj_property name="ObjectShortName">OUT_RELATIONAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_EQUALITY" type="logic">
+      <obj_property name="ElementShortName">OUT_EQUALITY</obj_property>
+      <obj_property name="ObjectShortName">OUT_EQUALITY</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/out_equal" type="logic">
+      <obj_property name="ElementShortName">out_equal</obj_property>
+      <obj_property name="ObjectShortName">out_equal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_REDUCTION" type="array">
+      <obj_property name="ElementShortName">OUT_REDUCTION[2:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_REDUCTION[2:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_CONDITIONAL" type="array">
+      <obj_property name="ElementShortName">OUT_CONDITIONAL[3:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_CONDITIONAL[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_CONCATENATION" type="array">
+      <obj_property name="ElementShortName">OUT_CONCATENATION[7:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_CONCATENATION[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/SHIFT" type="array">
+      <obj_property name="ElementShortName">SHIFT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">SHIFT[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/OUT_ARI" type="logic">
+      <obj_property name="ElementShortName">OUT_ARI</obj_property>
+      <obj_property name="ObjectShortName">OUT_ARI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/shift" type="logic">
+      <obj_property name="ElementShortName">shift</obj_property>
+      <obj_property name="ObjectShortName">shift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/pr1007_module_tb/uut1/S" type="array">
+      <obj_property name="ElementShortName">S[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

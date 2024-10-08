@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../pr1007_Operators.srcs/sources_1/new/pr1007_Operators.v" \
+"../../../../pr1007_Operators.srcs/sim_1/new/pr1007_module_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
